@@ -1,0 +1,17 @@
+.review-content img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.reviews-card{
+    border: 1px solid yellow;
+    padding: 15px;
+    border-radius: 15px;
+    color: #fff;
+    width: 30%;
+    margin-right: 3%;
+    box-shadow: 8px -8px #2a6f7b;
+}
+.title p{
+    margin-right: 25px;
+}

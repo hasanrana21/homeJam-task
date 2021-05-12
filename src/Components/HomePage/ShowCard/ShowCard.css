@@ -34,13 +34,17 @@
     color: #bd4798;
     font-size: 26px;
 }
-.shows-title{
+.title{
     color: #fff;
     letter-spacing: 3px;
     margin: 50px 0;
     padding-top: 30px;
 }
-.shows-title span{
+.title span{
     border-bottom: 5px solid #18a0fb;
     width: 10px;
+}
+.title a{
+    margin-right: 25px;
+    font-size: 21px;
 }

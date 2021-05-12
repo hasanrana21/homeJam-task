@@ -6,8 +6,11 @@ import './ShowCard.css';
 
 const ShowCard = () => {
     return (
-        <div className="row container-fluid m-5 shows-card-section">
-            <h2 className="shows-title"><span>Up</span>coming Shows</h2>
+        <div className="row container-fluid mt-5 ms-5 shows-card-section">
+            <div className="d-flex title justify-content-between pe-5">
+                <h2 className=""><span>Up</span>coming Shows</h2>
+                <a href="/"> View All </a>
+            </div>
             <div className="col-md-3 shows-card">
                 <img src="https://i.ibb.co/s57k960/andrew-Jeremiah.jpg" alt="" />
                 <div className="shows-card-text ps-3">

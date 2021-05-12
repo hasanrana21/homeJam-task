@@ -16,7 +16,7 @@ const Banner = () => {
 
             <div className="row py-5 ps-5 circle-area">
                 
-                <div className="col-md-3 label-circle">
+                <div className="col-md-3 label-circle first-circle">
                     <div className="label-circle-text">
                         <p> <span><FontAwesomeIcon icon={faHeart}/></span> </p>
                         <p>0</p>
