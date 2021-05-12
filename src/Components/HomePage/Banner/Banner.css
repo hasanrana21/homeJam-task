@@ -1,0 +1,37 @@
+.banner-section{
+    background-image: url('../../../images/cari-cari-bg1.jpg');
+    height: 110vh;
+    background-position: center center;
+    background-size: cover;
+    margin-left: 0;
+    position: relative;
+}
+.banner-text {
+    margin-top: 160px;
+}
+.banner-text p{
+    font-size: 23px;
+    color: #fff;
+}
+.label-circle{
+    color: #fff;
+    border: 2px solid gray;
+    margin-right: 5%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    height: 230px;
+    font-size: 25px;
+}
+.label-circle-text p{
+    text-align: center;
+}
+.label-circle-text span{
+    font-size: 31px;
+    color: #dd4cac;
+}
+.circle-area{
+    margin-top: 12%;
+}
