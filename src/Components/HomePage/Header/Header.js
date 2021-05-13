@@ -9,8 +9,8 @@ const Header = () => {
         <div>
             <nav className="navbar navbar-expand-lg navbar-light container-fluid px-5 header-section">
                 <div className="container-fluid px-5">
-                    <Link className="navbar-brand ms-4" to=""> <h3>HomeJam</h3> </Link>
-                    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <Link className="navbar-brand ms-4" to="/"> <h3 className="logo">HomeJam</h3> </Link>
+                    <button className="navbar-toggler menubar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                     </button>
                     <div className="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
